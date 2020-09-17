@@ -55,6 +55,7 @@ text-align: right;
 }
 
 footer p{text-align: right;
+    padding: 0px;
     padding-bottom: 10px;
     padding-right: 10px;
 }
